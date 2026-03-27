@@ -52,5 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-.idea/*
+.idea
 SkillForge/SkillForge.csproj.user
+SkillForge/Core/.DS_Store
